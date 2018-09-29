@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "748366205230",
+    "firebase_url": "https://realtimefirebase-1384f.firebaseio.com",
+    "project_id": "realtimefirebase-1384f",
+    "storage_bucket": "realtimefirebase-1384f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748366205230:android:eca9f9d317448c42",
+        "android_client_info": {
+          "package_name": "com.example.sony99.realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748366205230-ck7jarpapjd3u4ebdnhvgq5g1obhdsia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sony99.realtimefirebase",
+            "certificate_hash": "b9e0eb92ed6210f3b78a0617616a99d4055b666a"
+          }
+        },
+        {
+          "client_id": "748366205230-nimnvk5n9t0rt8900skc9a6he3rkedmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs4o7TqIbO9K4erugfz18RBz4-u0p_5-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748366205230-nimnvk5n9t0rt8900skc9a6he3rkedmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
